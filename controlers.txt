@@ -1,0 +1,59 @@
+C:\Users\User>cd c:\
+
+c:\>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 6ED4-BC67
+
+ Directorio de c:\
+
+29/01/2018  21:11    <DIR>          adb
+10/08/2019  06:37    <DIR>          AppData
+24/07/2017  07:06                 0 autoexec.bat
+19/06/2020  03:01    <DIR>          Intel
+25/02/2021  03:17    <DIR>          Jts
+27/04/2016  00:36    <DIR>          Logs
+13/06/2017  09:28    <DIR>          Microsoft
+07/12/2019  04:14    <DIR>          PerfLogs
+19/11/2021  18:34    <DIR>          Program Files
+05/11/2021  01:47    <DIR>          Program Files (x86)
+04/01/2018  09:43    <DIR>          TEFS Trader
+28/07/2020  06:01    <DIR>          Users
+13/11/2021  09:18    <DIR>          Windows
+               1 archivos              0 bytes
+              12 dirs  35.821.809.664 bytes libres
+
+c:\>mkdir projects
+
+c:\>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 6ED4-BC67
+
+ Directorio de c:\
+
+29/01/2018  21:11    <DIR>          adb
+10/08/2019  06:37    <DIR>          AppData
+24/07/2017  07:06                 0 autoexec.bat
+19/06/2020  03:01    <DIR>          Intel
+25/02/2021  03:17    <DIR>          Jts
+27/04/2016  00:36    <DIR>          Logs
+13/06/2017  09:28    <DIR>          Microsoft
+07/12/2019  04:14    <DIR>          PerfLogs
+19/11/2021  18:34    <DIR>          Program Files
+05/11/2021  01:47    <DIR>          Program Files (x86)
+19/11/2021  18:59    <DIR>          projects
+04/01/2018  09:43    <DIR>          TEFS Trader
+28/07/2020  06:01    <DIR>          Users
+13/11/2021  09:18    <DIR>          Windows
+               1 archivos              0 bytes
+              13 dirs  35.821.801.472 bytes libres
+
+c:\>cd projects
+
+c:\projects>mkdir lesson1
+
+c:\projects>cd lesson1
+
+c:\projects\lesson1>python hello.py
+hello world
+
+c:\projects\lesson1>

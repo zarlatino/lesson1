@@ -1,0 +1,26 @@
+listas
+varias funciones
+que tienes que leer y aprender en videos.
+len, una funcion que suma
+index, como encontrar el lugar donde esta el 
+fuction. sort()
+operator in
+para encontrar la palbara que quieres en la lista.
+operator del, para eliminar los indexes.
+y remove, eliminara, un elemento en particular que quieras eliminar.
+def
+get_user_name()
+verbo que da orden
+open_workbook()
+
+Pandas.
+
+crear un bot que lea sin las cryptos tiene un incremento del 20%
+luego del incrementor enviar eso a un telegram.
+tambien crear un bot q revise cuales son los que esta incluido nuevos en binance.
+
+y crear bot que publica las noticias.
+
+git status how to use it.
+
+git remote add origin https://github.com/zarlatino/cryptobot.git
